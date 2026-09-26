@@ -1,0 +1,8 @@
+(0.24*line, 0.50*height), 
+(0.27*line, 0.47*height), 
+(0.30*line, 0.44*height), 
+(0.36*line, 0.44*height), 
+(0.37*line, 0.47*height), 
+(0.35*line, 0.50*height), 
+(0.33*line, 0.53*height), 
+(0.34*line, 0.56*height), 
